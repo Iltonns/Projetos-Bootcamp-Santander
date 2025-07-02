@@ -21,12 +21,9 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e su
 
 ## Ferramentas Utilizadas
 
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="20"> VS Code	Editor de código principal
-
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="20"> Python	Linguagem principal para back-end e automação
-
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20"> Git	Controle de versão
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Licença
 
