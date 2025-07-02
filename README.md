@@ -1,4 +1,4 @@
-
+# Bootcamp Santander - Projetos e Desafios
 
 Este repositório contém os projetos desenvolvidos durante o Bootcamp Santander, demonstrando a evolução técnica ao longo do programa. Aqui você encontrará exemplos práticos, desafios resolvidos e implementações de conceitos de desenvolvimento de software.
 
@@ -22,9 +22,11 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e su
 ## Ferramentas Utilizadas
 
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="20"> VS Code	Editor de código principal
+
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="20"> Python	Linguagem principal para back-end e automação
+
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20"> Git	Controle de versão
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="20"> Docker
+
 
 ## Licença
 
