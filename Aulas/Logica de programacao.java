@@ -28,17 +28,13 @@ public class Desafio {
     float valorSalario = leitorDeEntradas.nextFloat();
     float valorBeneficio = leitorDeEntradas.nextFloat();
 
-    //Atribui a aliquota de 5% mediante o salario:
+    //Atribui as aliquotas mediante o salario:
     float valorImposto = 0;
     if (valorSalario >= 0 && valorSalario <= 1100) {
         valorImposto = 0.05F * valorSalario;
-    }
-    //Atribui a aliquota de 10% mediante o salario:
-    else if (valorSalario >= 1100.01 && valorSalario <= 2500) {
+    } else if (valorSalario >= 1100.01 && valorSalario <= 2500) {
         valorImposto = 0.10F * valorSalario;
-    }
-    //Atribui a aliquota de 15% mediante o salario
-    else (valorSalario >= 2500) {
+    } else (valorSalario >= 2500) {
         valorImposto = 0.15F * valorSalario;
     }
    
